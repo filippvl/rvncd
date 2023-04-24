@@ -37,7 +37,7 @@ Compiled Revanced APK's for friends and family.
 - remember video quality
 - remove player button background
 - remove screenshot restriction
-- return yourube dislike
+- return youtube dislike
 - seekbar tapping
 - sponsorblock
 - spoof signature verification
