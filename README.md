@@ -16,7 +16,10 @@ Follow this to compile it yourself: [revanced manager guide for dummies](https:/
   
   
 ## App settings
-  
+go through screenshots and copy my settings
+
+YouTube > Settings > General > Disable Picture in Picture
+![Picture In Picture](https://imgur.com/IXo0SI9)
   
 ## List of applied patches:
 - client spoof
