@@ -2,7 +2,7 @@
 Compiled Revanced APK's for friends and family.  
 Follow this to compile it yourself: [revanced manager guide for dummies](https://www.reddit.com/r/revancedapp/comments/xlcny9/revanced_manager_guide_for_dummies/)
   
-<p align="center">  
+<p align="left">  
 <a href="https://github.com/filippvl/rvncd/releases/latest"><img src="https://img.shields.io/badge/download-latest-green" alt="Download Latest Version"/></a>
 </p>  
   
