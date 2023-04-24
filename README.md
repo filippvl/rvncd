@@ -28,10 +28,7 @@ Follow this to compile it yourself: [revanced manager guide for dummies](https:/
 <img src="https://i.imgur.com/HyECZT3.jpg" height="320px" />  
 
 ### ReVanced Settings > Layout  
-<img src="https://i.imgur.com/DTZ4x6r.jpg" height="320px" />
-<img src="https://i.imgur.com/pdIMBNc.jpg" height="320px" />
-<img src="https://i.imgur.com/jCrlUvf.jpg" height="320px" />
-<img src="https://i.imgur.com/IgITcNQ.jpg" height="320px" />
+<img src="https://i.imgur.com/DTZ4x6r.jpg" height="320px" /> <img src="https://i.imgur.com/pdIMBNc.jpg" height="320px" /> <img src="https://i.imgur.com/jCrlUvf.jpg" height="320px" /> <img src="https://i.imgur.com/IgITcNQ.jpg" height="320px" />
 
 ## List of applied patches:
 - client spoof
