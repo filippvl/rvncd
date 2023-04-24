@@ -1,5 +1,7 @@
 # RVNCD
 Compiled Revanced APK's for friends and family.
+Follow this guide to compile it yourself: [Revanced Managed Guide for Dummies](https://www.reddit.com/r/revancedapp/comments/xlcny9/revanced_manager_guide_for_dummies/)
+
 - how to install (to be created)
 - settings inside the app (to be created)
 - [list of applied patches](https://github.com/filippvl/rvncd#list-of-applied-patches)
