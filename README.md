@@ -20,6 +20,7 @@ go through screenshots and copy my settings
 
 YouTube > Settings > General > Disable Picture in Picture  
 ![Picture In Picture](https://i.imgur.com/IXo0SI9.jpg)
+<img src="https://i.imgur.com/IXo0SI9.jpg" height="20%" />
   
 ## List of applied patches:
 - client spoof
