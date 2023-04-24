@@ -1,2 +1,6 @@
 # rvncd
-Compiled latest version of Revanced patches for Friends
+Compiled latest version of Revanced patches for friends and family.
+
+
+List of applied patches:
+- edit
