@@ -8,8 +8,13 @@ Follow this to compile it yourself: [revanced manager guide for dummies](https:/
 - how to install (to be created)
 - settings inside the app (to be created)
 - [list of applied patches](https://github.com/filippvl/rvncd#list-of-applied-patches)
-
-
+  
+  
+## How to install
+  
+  
+## App settings
+  
   
 ## List of applied patches:
 - client spoof
