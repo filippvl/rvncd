@@ -2,7 +2,7 @@
 Compiled Revanced APK's for friends and family.
 
 
-List of applied patches:
+## List of applied patches:
 - client spoof
 - copy video url
 - disable auto captions
