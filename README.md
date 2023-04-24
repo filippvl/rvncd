@@ -1,6 +1,7 @@
 # RVNCD
 Compiled Revanced APK's for friends and family.
 - how to install (to be created)
+- settings inside the app (to be created)
 - list of applied patches
 
 
