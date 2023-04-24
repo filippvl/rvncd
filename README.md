@@ -8,7 +8,7 @@ Follow this to compile it yourself: [revanced manager guide for dummies](https:/
   
 ## Table of contents:
 - how to install (to be created)
-- settings inside the app (to be created)
+- [settings inside the app](https://github.com/filippvl/rvncd/tree/main#app-settings)
 - [list of applied patches](https://github.com/filippvl/rvncd#list-of-applied-patches)
   
   
