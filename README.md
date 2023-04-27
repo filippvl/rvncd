@@ -4,7 +4,13 @@ Follow this to compile it yourself: [revanced manager guide for dummies](https:/
   
 <p align="left">  
 <a href="https://github.com/filippvl/rvncd/releases/latest"><img src="https://img.shields.io/badge/download-latest-success" alt="Download Latest Version"/></a>
+<a href="https://github.com/TeamVanced/VancedMicroG/releases/latest"><img src="https://img.shields.io/badge/microG-download-important" alt="Download Latest Version"/></a>
 </p>  
+
+### Requirements:
+- non-root device
+- android 8+
+- microG  
   
 ## Table of contents:
 - how to install (to be created)
