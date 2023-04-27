@@ -7,18 +7,26 @@ Follow this to compile it yourself: [revanced manager guide for dummies](https:/
 <a href="https://github.com/TeamVanced/VancedMicroG/releases/latest"><img src="https://img.shields.io/badge/microG-download-important" alt="Download Latest Version"/></a>
 </p>  
 
+
 ### Requirements:
 - non-root device
 - android 8+
 - microG  
   
+  
 ## Table of contents:
-- how to install (to be created)
+- [how to install](https://github.com/filippvl/rvncd#how-to-install)
 - [settings inside the app](https://github.com/filippvl/rvncd#app-settings)
 - [list of applied patches](https://github.com/filippvl/rvncd#list-of-applied-patches)
   
   
-## How to install
+## How to install  
+1. download latest microG .apk file and install it on your phone
+2. download latest revanced .apk file from releases on your phone
+3. navigate on your phone to downloads and install revanced .apk file
+4. google play will probably display a notification that it's not safe to install, just click show more and then "install anyway"
+5. you can login into your account in the app now
+6. go through settings and set everything how you'd like or copy my settings from screenshots below
   
   
 ## App settings
@@ -35,7 +43,9 @@ ReVanced Settings > Interaction
 
 ReVanced Settings > Layout   
 <img src="https://i.imgur.com/DTZ4x6r.jpg" height="320px" /> <img src="https://i.imgur.com/pdIMBNc.jpg" height="320px" /> <img src="https://i.imgur.com/jCrlUvf.jpg" height="320px" /> <img src="https://i.imgur.com/IgITcNQ.jpg" height="320px" />
-
+  
+  
+  
 ## List of applied patches:
 - client spoof
 - copy video url
