@@ -8,7 +8,7 @@ Follow this to compile it yourself: [revanced manager guide for dummies](https:/
 </p>  
 
 
-### Requirements:
+#### Requirements:
 - non-root device
 - android 8+
 - microG  
