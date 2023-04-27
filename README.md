@@ -14,6 +14,7 @@ Follow this to compile it yourself: [revanced manager guide for dummies](https:/
 - android 8+
 - microG  
   
+---  
   
 ## Table of contents:
 - [how to install](https://github.com/filippvl/rvncd#how-to-install)
