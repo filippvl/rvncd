@@ -7,6 +7,7 @@ Follow this to compile it yourself: [revanced manager guide for dummies](https:/
 <a href="https://github.com/TeamVanced/VancedMicroG/releases/latest"><img src="https://img.shields.io/badge/microG-download-important" alt="Download Latest Version"/></a>
 </p>  
 
+:warning: Screen casting doesn't work with revanced, you will either need to use stock version of the app or install [SmartTubeNext](https://github.com/yuliskov/SmartTubeNext/releases/latest) on your android TV
 
 #### Requirements:
 - non-root device
