@@ -3,8 +3,8 @@ Compiled Revanced APK's for friends and family.
 Follow this to compile it yourself: [revanced manager guide for dummies](https://www.reddit.com/r/revancedapp/comments/xlcny9/revanced_manager_guide_for_dummies/)
   
 <p align="left">  
-<a href="https://github.com/filippvl/rvncd/releases/latest"><img src="https://img.shields.io/badge/download-latest-success" alt="Download Latest Version"/></a>
-<a href="https://github.com/TeamVanced/VancedMicroG/releases/latest"><img src="https://img.shields.io/badge/microG-download-important" alt="Download Latest Version"/></a>
+<a href="https://github.com/filippvl/rvncd/releases/latest" target="_blank"><img src="https://img.shields.io/badge/download-latest-success" alt="Download Latest Version"/></a>
+<a href="https://github.com/TeamVanced/VancedMicroG/releases/latest" target="_blank"><img src="https://img.shields.io/badge/microG-download-important" alt="Download Latest Version"/></a>
 </p>  
 
 ### Requirements:
