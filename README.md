@@ -72,6 +72,7 @@ ReVanced Settings > Layout
 - hide video action buttons
 - hide watch in VR
 - hide watermark
+- hide get premium
 - minimized playback
 - old quality layout
 - open links externally
