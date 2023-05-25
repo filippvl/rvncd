@@ -87,3 +87,6 @@ ReVanced Settings > Layout
 - spoof signature verification
 - vanced microg support
 - video ads
+- hide general ads
+- hide filter bar
+- hide shorts components
