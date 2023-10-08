@@ -49,44 +49,36 @@ ReVanced Settings > Layout
   
   
 ## List of applied patches:
-- client spoof
-- copy video url
-- disable auto captions
-- disable fullscreen panels
-- disable player popup panels
-- disable shorts on startup
-- disable zoom haptics
-- downloads
-- general ads
-- hdr auto brightness
-- hide album cards
-- hide artist card
-- hide breaking news shelf
-- hide cast button
-- hide create button
-- hide crowdfunding box
-- hide endscreen cards
-- hide floating microphone button
-- hide info cards
-- hide shorts button
-- hide video action buttons
-- hide watch in VR
-- hide watermark
-- hide get premium
-- minimized playback
-- old quality layout
-- open links externally
-- predictive back gesture
-- premium heading
-- remember video quality
-- remove player button background
-- remove screenshot restriction
-- return youtube dislike
-- seekbar tapping
-- sponsorblock
-- spoof signature verification
-- vanced microg support
-- video ads
-- hide general ads
-- hide filter bar
-- hide shorts components
+- Hide ads
+- Video ads
+- Copy video URL
+- External downloads
+- Seekbar tapping
+- Disable auto captions
+- Premium heading
+- Hide video action buttons
+- Hide cast button
+- Hide album cards
+- Hide breaking news shelf
+- Hide crowdfunding box
+- Hide endscreen cards
+- Hide filter bar
+- Hide floating microphone button
+- Hide info cards
+- Hide Shorts components
+- Hide watermark
+- Disable player popup panels
+- Remove player controls background
+- Return YouTube Dislike
+- SponsorBlock
+- Disable Shorts on startup
+- Client spoof
+- Open links externally
+- Vanced MicroG support
+- Minimized playback
+- Disable zoom haptics
+- HDR auto brightness
+- Remember video quality
+- Old video quality menu
+- Bypass URL redirects
+- Disable fine scrubbing gesture
