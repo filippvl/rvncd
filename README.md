@@ -26,10 +26,11 @@ Follow this to compile it yourself: [revanced manager guide for dummies](https:/
 ## How to install  
 1. download latest microG .apk file and install it on your phone
 2. download latest revanced .apk file from releases on your phone
-3. navigate on your phone to downloads and install revanced .apk file
-4. google play will probably display a notification that it's not safe to install, just click show more info and then "install anyway"
-5. you can login into your account in the app now
-6. go through settings and set everything how you'd like or copy my settings from screenshots below
+3. disable stock youtube application
+4. navigate on your phone to downloads and install revanced .apk file
+5. google play will probably display a notification that it's not safe to install, just click show more info and then "install anyway"
+6. you can login into your account in the app now
+7. go through settings and set everything how you'd like or copy my settings from screenshots below
   
   
 ## App settings
