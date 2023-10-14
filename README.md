@@ -7,22 +7,26 @@ Follow this to compile it yourself: [revanced manager guide for dummies](https:/
 <a href="https://github.com/TeamVanced/VancedMicroG/releases/latest"><img src="https://fdl.lucani.net/rvncd/200x40-new/microg-dl.png" alt="Download Latest Version"/></a>
 </p> 
 
+<br>
 
 :warning: Screen casting doesn't work with revanced, you will either need to use stock version of the app on your phone or install [SmartTubeNext](https://github.com/yuliskov/SmartTubeNext/releases/latest) on your android TV, it should work with most android-TV smart boxes and it also comes with ad-blocker.
+
+<br>
 
 ### Requirements:
 - non-root device
 - android 8+
 - microG  
   
----  
+<br>
   
 ## Table of contents:
 - [how to install](https://github.com/filippvl/rvncd#how-to-install)
 - [settings inside the app](https://github.com/filippvl/rvncd#app-settings)
 - [list of applied patches](https://github.com/filippvl/rvncd#list-of-applied-patches)
-  
-  
+
+<br>
+
 ## How to install  
 1. download latest microG .apk file and install it on your phone
 2. download latest revanced .apk file from releases on your phone
@@ -32,6 +36,7 @@ Follow this to compile it yourself: [revanced manager guide for dummies](https:/
 6. you can login into your account in the app now
 7. go through settings and set everything how you'd like or copy my settings from screenshots below
   
+<br>
   
 ## App settings
 Go through screenshots and copy my settings
@@ -48,7 +53,7 @@ ReVanced Settings > Interaction
 ReVanced Settings > Layout   
 <img src="https://i.imgur.com/DTZ4x6r.jpg" height="320px" /> <img src="https://i.imgur.com/pdIMBNc.jpg" height="320px" /> <img src="https://i.imgur.com/jCrlUvf.jpg" height="320px" /> <img src="https://i.imgur.com/IgITcNQ.jpg" height="320px" />
   
-  
+<br>
   
 ## List of applied patches:
 - Hide ads
