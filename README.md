@@ -9,7 +9,8 @@ Follow this to compile it yourself: [revanced manager guide for dummies](https:/
 
 <br>
 
-:warning: Screen casting doesn't work with revanced, you will either need to use stock version of the app on your phone or install [SmartTubeNext](https://github.com/yuliskov/SmartTubeNext/releases/latest) on your android TV, it should work with most android-TV smart boxes and it also comes with ad-blocker.
+> [!WARNING]
+> Screen casting doesn't work with revanced, you will either need to use stock version of the app on your phone or install [SmartTubeNext](https://github.com/yuliskov/SmartTubeNext/releases/latest) on your android TV, it should work with most android-TV smart boxes and it also comes with ad-blocker.
 
 <br>
 
