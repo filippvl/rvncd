@@ -57,38 +57,38 @@ ReVanced Settings > Layout
 <br>
   
 ## List of applied patches:
-•	Bypass URL redirects
-•	Client spoof
-•	Copy video URL
-•	Disable auto captions
-•	Disable fullscreen ambient mode
-•	Disable player popup panels
-•	Disable precise seeking gesture
-•	Disable resuming Shorts on startup
-•	Disable suggested video end screen
-•	Disable zoom haptics
-•	Enable slide to seek
-•	External downloads
-•	HDR auto brightness
-•	Hide Shorts components
-•	Hide ads
-•	Hide album cards
-•	Hide breaking news shelf
-•	Hide cast button
-•	Hide crowdfunding box
-•	Hide endscreen cards
-•	Hide filter bar
-•	Hide floating microphone button
-•	Hide info cards
-•	Hide video action buttons
-•	Minimized playback
-•	Open links externally
-•	Premium heading
-•	Remember video quality
-•	Remove player controls background
-•	Remove tracking query parameter
-•	Return YouTube Dislike
-•	Seekbar tapping
-•	SponsorBlock
-•	Vanced MicroG support
-•	Video ads
+-	Bypass URL redirects
+-	Client spoof
+-	Copy video URL
+-	Disable auto captions
+-	Disable fullscreen ambient mode
+-	Disable player popup panels
+-	Disable precise seeking gesture
+-	Disable resuming Shorts on startup
+-	Disable suggested video end screen
+-	Disable zoom haptics
+-	Enable slide to seek
+-	External downloads
+-	HDR auto brightness
+-	Hide Shorts components
+-	Hide ads
+-	Hide album cards
+-	Hide breaking news shelf
+-	Hide cast button
+-	Hide crowdfunding box
+-	Hide endscreen cards
+-	Hide filter bar
+-	Hide floating microphone button
+-	Hide info cards
+-	Hide video action buttons
+-	Minimized playback
+-	Open links externally
+-	Premium heading
+-	Remember video quality
+-	Remove player controls background
+-	Remove tracking query parameter
+-	Return YouTube Dislike
+-	Seekbar tapping
+-	SponsorBlock
+-	Vanced MicroG support
+-	Video ads
