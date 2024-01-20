@@ -90,5 +90,7 @@ ReVanced Settings > Layout
 -	Return YouTube Dislike
 -	Seekbar tapping
 -	SponsorBlock
--	Vanced MicroG support
 -	Video ads
+- Change Start Page
+- GmsCore Support
+- Remove viewer discretion dialog
