@@ -94,3 +94,4 @@ ReVanced Settings > Layout
 - Change Start Page
 - GmsCore Support
 - Remove viewer discretion dialog
+- Always repeat option
